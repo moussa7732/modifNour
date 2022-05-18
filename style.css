@@ -1,0 +1,89 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-justify: auto;
+}
+
+#t1{
+    margin-left: 25%;
+}
+#t2{
+    margin-left: 24%;
+}
+#t3{
+    margin-left: 25%;
+}
+
+tr, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+#l1{
+    background-color: #020086;
+    color: white;
+}
+
+#l1{
+    background-color: #020086;
+    color: white;
+}
+
+#l1{
+    background-color: #020086;
+    color: white;
+}
+
+
+#service{
+    margin-left: 20%;
+    margin-left: 10%;
+    background-color: blue;
+    height: 5px;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    font-size: 180%;
+}
+
+#transpBusi{
+    text-align: center;
+}
+
+#tp{
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    margin-right: 50%;
+    margin-left: 15%;
+}
+
+#tm{
+    position: absolute;
+    top: 6%;
+    text-align: center;
+    margin-left: 60%;
+    margin-top: 12%;
+}
+
+#tb{
+    position: absolute;
+    top: 76%;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 50%
+}
+
+#lb{
+    position: absolute;
+    top: 9%;
+    text-align: center;
+    margin-left: 60%;
+    margin-top: 34%;
+    margin-bottom: 100%;
+}
+
