@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     text-justify: auto;
@@ -87,3 +88,318 @@ table{
     margin-bottom: 100%;
 }
 
+=======
+    margin:10px;
+    padding:0;
+    text-align: center;
+    
+}
+.photo{
+    margin-top: 40px;
+    margin-bottom: ;
+
+    
+}
+.b1{
+    width: 200px;
+    height: 200px;
+    top:20px;
+    text-align: center;
+    border: 1px solid black;
+    display: block;
+    border-radius: 20px;
+    font-size: 10px; 
+
+     
+}
+.b2{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 10px;
+    margin-left: 350px; 
+    position: absolute;
+    TOP:630px;  
+}
+.b3{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: 300px; 
+    position: absolute;
+    margin-left:700px;
+    position:absolue;
+    TOP:630px
+
+}
+.b4{
+
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: 300px; 
+    position: absolute;
+    margin-left:1050px;
+    position:absolute;
+    TOP:630px;
+}
+.a{
+    position: absolute;
+    bottom: 520px;
+    margin-left: 700px;
+}
+.b{
+    position: absolute;
+    bottom: 520px;
+    margin-left: 780px;
+}
+.c{
+    position: absolute;
+    bottom: 520px;
+    margin-left: 870px; 
+}
+.d{
+    position: absolute;
+    bottom: 520px;
+    margin-left: 950px; 
+}
+.e{
+    position: absolute;
+    bottom: 520px;
+    margin-left:1090px;
+    
+}
+.f{
+    width:1290px;
+    height:10px ;
+   border: 1px solid black; 
+   position: absolute;
+   top: 2px;
+   background-color: black;
+   
+}
+.g{
+    background-color: black;
+    width:1300px ;
+    height:300px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: -590px;
+   
+}
+.hi{
+
+position: absolute;
+padding-top: 50px;
+padding-left: 100px;
+}
+.hi img{
+    border-radius: 250px;
+}
+.h2{
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 540px;
+    
+}
+.h2 img{
+    border-radius: 250px;
+}
+.h3 {
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 980px;
+}
+.h3 img{
+    border-radius: 250px;
+}
+
+.titre{
+    background:#efad10;
+}
+.img1{
+position: absolute;
+margin-top: 350px;
+margin-left: 30px;
+}
+.img1 img{
+    border-radius: 250px;
+}
+.directeur {
+     margin-top: 390px;
+     text-align:  justify;
+     margin-left: 600px;
+     font-size: 15px;
+     margin-bottom: 390px;   
+}
+.bleu{
+    width:1290px ;
+    height:300px;
+    border: 1px solid black;
+    position: absolute;
+    background: #020086;
+    top: 1500px;
+}
+.img2{
+    
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 100px
+}
+.img2 img{
+    border-radius: 250px;
+}
+.img3{
+    position: absolute;
+    padding-top: 50px;
+    padding-left:900px;
+}
+.img3 img{
+    border-radius: 250px;
+}
+.img4{
+    position:absolute;
+    padding-left: 490px;
+    top:50px;  
+}
+  .img4 img{
+border-radius: 250px;
+  } 
+  .fichier{
+      border: 1px solid black;
+      width: 130px;
+      height: 50px;
+      margin-left: 600px;
+      position: absolute;
+      top:1820px;
+      border-radius: 250px;
+      background-color: #efad10;
+  } 
+  .chiffre{
+      position: absolute;
+      margin-right:400px;
+      margin-left: 20px;
+  }
+  .chiffre1{
+      position: absolute;
+      margin-left: 590px;
+      
+  }
+.chiffre2{
+    position: absolute;
+    margin-left: 1040px;
+}
+.designation{
+    position:absolute;
+    top:1900px;
+
+    margin-left: 600px;
+}
+.Orange{
+    background-color: #efad10;
+    width: 1290px;
+    height:300px;
+    position: absolute;
+    top:1950px;
+    border-radius: 30px;
+}
+.paiement{
+    position: absolute;
+    TOP:1950px;
+    margin-left: 40px;
+    margin-bottom: 2px;
+    text-underline-offset: 2px;
+}
+.derniere{
+    position:absolute;
+    margin-left: 300px;
+bottom: 160px;
+}
+.mosque{
+    position: absolute;
+    margin-left: 300px;
+    bottom: 100px; 
+}
+.paiement .mosque img{
+
+    border-radius: 250px;
+    height: 40px;
+}
+.c1{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 420px;
+
+}
+.c2{
+position: absolute;
+padding-left:2px;
+padding-top: 10px;
+}
+.c3{
+    position: absolute;
+    padding-top: 69px;
+}
+.c4{
+    position: absolute;
+    padding-top: 2px;
+}
+.cgv{
+    position: absolute;
+    top:1960px;
+    margin-left:720px;
+}
+.cg{
+    position: absolute;
+    top:2000px;
+    margin-left:720px;
+}
+.notre{
+    position: absolute;
+    top:2000px;
+    margin-left:720px;
+    margin-left: 1000px;
+    bottom: 200px; 
+    text-decoration:overline; 
+}
+.formulaire{
+    position: absolute;
+    top:2050px;
+    margin-left: 1000px;
+}
+.label{
+    margin-right: 140px;
+}
+.pied{
+    padding-top: 20px;
+    padding-right: 80px;
+    border-radius: 250px;
+}
+.pied button{
+    border-radius: 250px;
+}
+.pi{
+    position: absolute;
+    top: 50px;
+    padding-left: 1190px;
+    padding-bottom: 50px;
+}
+.pi img{
+    border-radius: 250px;
+}
+.couleurb{
+    weight:2000px;
+    height: 50px;
+    border: 1 px solid black;
+    background-color: black;
+    margin-top: 770px;
+}
+>>>>>>> bf750fd0b5967b330755ecf2a77a25541128df8d
